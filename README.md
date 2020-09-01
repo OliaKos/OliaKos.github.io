@@ -1,1 +1,1 @@
-# OliaKostsoviat.github.io
+# OliaKos.github.io
