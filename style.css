@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(130, 164, 204);
+}
+h1 {
+  margin-left: 380px;
+}
+
+ul {
+  font-size: 20px;
+  font-family: cursive;
+  padding-left: 150px;
+}
